@@ -56,8 +56,20 @@ Un documento HTML consta de varias partes que le permiten al navegador interpret
 
 1. Doctype: Es una declaración especial al inicio del documento que indica al navegador la versión de HTML que se está utilizando en el documento. Por ejemplo, **`<!DOCTYPE html>`** indica que se está utilizando HTML5.
 2. Etiqueta html: La etiqueta html envuelve todo el contenido del documento y le indica al navegador que este es un documento HTML.
-1. Cabeza (head): La cabeza del documento contiene información que no se muestra directamente en la página web, como el título de la página, los enlaces a hojas de estilo CSS y los scripts de JavaScript.
-2. Cuerpo (body): El cuerpo del documento contiene todo el contenido que se mostrará directamente en la página web, como el texto, las imágenes, los videos, los enlaces y otros elementos multimedia.
+3. Cabeza (head): La cabeza del documento contiene información que no se muestra directamente en la página web, como el título de la página, los enlaces a hojas de estilo CSS y los scripts de JavaScript.
+4. Cuerpo (body): El cuerpo del documento contiene todo el contenido que se mostrará directamente en la página web, como el texto, las imágenes, los videos, los enlaces y otros elementos multimedia.
+
+## `Salto de línea - Párrafos`
+
+La etiqueta "<br>" es una etiqueta vacía en HTML, lo que significa que no tiene etiqueta de cierre. Para agregar un salto de línea, simplemente incluye la etiqueta "<br>" en el lugar donde deseas que se produzca el salto de línea.
+
+Para agregar un salto de línea en HTML también se puede utilizar la etiqueta "<br>". Sin embargo, es importante tener en cuenta que la etiqueta "<br>" solo agrega un salto de línea, mientras que la etiqueta "<p>" se utiliza para crear párrafos separados.
+
+La etiqueta "<p>" es un elemento de bloque en HTML, lo que significa que se utiliza para separar el contenido en secciones distintas. Por lo tanto, es una buena práctica utilizar la etiqueta "<p>" para separar el contenido en párrafos, en lugar de depender únicamente de la etiqueta "<br>" para agregar saltos de línea.
+
+En resumen, puedes utilizar la etiqueta "<br>" para agregar saltos de línea en un texto sin formato, pero es recomendable utilizar la etiqueta "<p>" para crear párrafos separados y mejorar la estructura del contenido en HTML.
+
+## `Comentarios`
 
 1. Para agregar un comentario en HTML, coloca el texto que deseas comentar entre los caracteres **`<!--`** y **`->`**.
 2. Los comentarios se pueden agregar en cualquier lugar dentro del código HTML, incluyendo entre etiquetas, dentro de atributos y en líneas separadas.
