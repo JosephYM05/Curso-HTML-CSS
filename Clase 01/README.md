@@ -61,15 +61,13 @@ Un documento HTML consta de varias partes que le permiten al navegador interpret
 
 ## `Salto de línea - Párrafos`
 
-La etiqueta "<br>" es una etiqueta vacía en HTML, lo que significa que no tiene etiqueta de cierre. Para agregar un salto de línea, simplemente incluye la etiqueta "<br>" en el lugar donde deseas que se produzca el salto de línea.
+La etiqueta `"<br>"` es una etiqueta vacía en HTML, lo que significa que no tiene etiqueta de cierre. Para agregar un salto de línea, simplemente incluye la etiqueta `"<br>"` en el lugar donde deseas que se produzca el salto de línea.
 
-Para agregar un salto de línea en HTML también se puede utilizar la etiqueta "<br>". Sin embargo, es importante tener en cuenta que la etiqueta "<br>" solo agrega un salto de línea, mientras que la etiqueta "<p>" se utiliza para crear párrafos separados.
+Para agregar un salto de línea en HTML también se puede utilizar la etiqueta `"<br>"`. Sin embargo, es importante tener en cuenta que la etiqueta `"<br>"` solo agrega un salto de línea, mientras que la etiqueta `"<p>"` se utiliza para crear párrafos separados.
 
-La etiqueta "<p>" es un elemento de bloque en HTML, lo que significa que se utiliza para separar el contenido en secciones distintas. Por lo tanto, es una buena práctica utilizar la etiqueta "<p>" para separar el contenido en párrafos, en lugar de depender únicamente de la etiqueta "<br>" para agregar saltos de línea.
+La etiqueta `"<p>"` es un elemento de bloque en HTML, lo que significa que se utiliza para separar el contenido en secciones distintas. Por lo tanto, es una buena práctica utilizar la etiqueta `"<p>"` para separar el contenido en párrafos, en lugar de depender únicamente de la etiqueta "`<br>"` para agregar saltos de línea.
 
-En resumen, puedes utilizar la etiqueta "<br>" para agregar saltos de línea en un texto sin formato, pero es recomendable utilizar la etiqueta "<p>" para crear párrafos separados y mejorar la estructura del contenido en HTML.
-
-## `Comentarios`
+En resumen, puedes utilizar la etiqueta `"<br>"` para agregar saltos de línea en un texto sin formato, pero es recomendable utilizar la etiqueta `"<p>"` para crear párrafos separados y mejorar la estructura del contenido en HTML.
 
 1. Para agregar un comentario en HTML, coloca el texto que deseas comentar entre los caracteres **`<!--`** y **`->`**.
 2. Los comentarios se pueden agregar en cualquier lugar dentro del código HTML, incluyendo entre etiquetas, dentro de atributos y en líneas separadas.
