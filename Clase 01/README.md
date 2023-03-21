@@ -69,6 +69,8 @@ La etiqueta `"<p>"` es un elemento de bloque en HTML, lo que significa que se ut
 
 En resumen, puedes utilizar la etiqueta `"<br>"` para agregar saltos de línea en un texto sin formato, pero es recomendable utilizar la etiqueta `"<p>"` para crear párrafos separados y mejorar la estructura del contenido en HTML.
 
+## `Comentarios`
+
 1. Para agregar un comentario en HTML, coloca el texto que deseas comentar entre los caracteres **`<!--`** y **`->`**.
 2. Los comentarios se pueden agregar en cualquier lugar dentro del código HTML, incluyendo entre etiquetas, dentro de atributos y en líneas separadas.
 3. Los comentarios en HTML no se muestran en la página web, por lo que se utilizan principalmente para hacer anotaciones sobre el código o desactivar temporalmente secciones de código que no se deseen mostrar.
