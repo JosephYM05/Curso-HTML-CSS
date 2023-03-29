@@ -35,25 +35,25 @@ Las etiquetas __< h3 >__, __< h4 >__, __< h5 >__ y __< h6 >__ son utilizados pa
 ```
 ## ****`¿Cómo utilizar correctamente las etiquetas de encabezado HTML?`****
 
-- Evita omitir niveles de encabezado HTML. Es decir, comienza siempre con **<h1>**, después utiliza la **<h2>** y así sucesivamente.
-- Evita utilizar el **<h1>** más de una vez en una página. Esta etiqueta se usa una vez para mostrar el título de la página, seguido por los demás encabezados HTML, que comienzan con **<h2>**.
+- Evita omitir niveles de encabezado HTML. Es decir, comienza siempre con __<h1>__, después utiliza la __<h2>__ y así sucesivamente.
+- Evita utilizar el __<h1>__ más de una vez en una página. Esta etiqueta se usa una vez para mostrar el título de la página, seguido por los demás encabezados HTML, que comienzan con __<h2>__.
 - Tampoco debes utilizar niveles inferiores para reducir el tamaño de la fuente. Para esto, aplica la propiedad **CSS font-size** ;)
 
 ### **`¿Para qué se usa la etiqueta “H1”?`**
 
-El <h1> es una etiqueta que permite identificar aquellas frases que conforman el título principal de un contenido de una página web. Es fundamental que este encabezado, por ser el más relevante, resuma en una frase el contenido de dicha página.
+El __<h1>__ es una etiqueta que permite identificar aquellas frases que conforman el título principal de un contenido de una página web. Es fundamental que este encabezado, por ser el más relevante, resuma en una frase el contenido de dicha página.
 
 ### **`¿Para qué se utiliza la etiqueta “H2”?`**
 
-El <h2> es la etiqueta que en HTML permite identificar a los subtítulos. Normalmente se utilizan para producir un corte en el contenido y por supuesto, brindarle más información a los motores de búsqueda.
+El __<h2>__ es la etiqueta que en HTML permite identificar a los subtítulos. Normalmente se utilizan para producir un corte en el contenido y por supuesto, brindarle más información a los motores de búsqueda.
 
 ### **`¿Cuál es la función de las etiquetas "H3", "H4", "H5" y "H6"?`**
 
-Las etiquetas <h3>, <h4>, <h5> y <h6> son utilizados para identificar subtítulos de menor jerarquía que se encuentran presentes dentro de secciones de <h2> y permite ser minucioso con el contenido de nuestra página web. Obviamente, a mayor número de etiquetas, menor relevancia para los motores de búsqueda.
+Las etiquetas __<h3>__, __<h4>__, __<h5>__ y __<h6>__ son utilizados para identificar subtítulos de menor jerarquía que se encuentran presentes dentro de secciones de __<h2>__ y permite ser minucioso con el contenido de nuestra página web. Obviamente, a mayor número de etiquetas, menor relevancia para los motores de búsqueda.
 
 ### **`¿Cómo utilizar correctamente las etiquetas de encabezado HTML?`**
 
-Para utilizar correctamente las etiquetas de encabezado HTML sigue alguna de estas prácticas: evita omitir niveles de encabezado HTML, evita utilizar el <h1> más de una vez en una página. Tampoco debes utilizar niveles inferiores para reducir el tamaño de la fuente, para esto, aplica la propiedad CSS font-size.
+Para utilizar correctamente las etiquetas de encabezado HTML sigue alguna de estas prácticas: evita omitir niveles de encabezado HTML, evita utilizar el __<h1>__ más de una vez en una página. Tampoco debes utilizar niveles inferiores para reducir el tamaño de la fuente, para esto, aplica la propiedad CSS font-size.
 
 > `Referencias:`  [¿Qué son los encabezados en HTML? | Henry Blog (soyhenry.com)](https://blog.soyhenry.com/que-son-los-encabezados-en-html/#:~:text=Los%20encabezados%20HTML%20o%20heading,la%20jerarqu%C3%ADa%20de%20dicha%20cabecera.)
 >
