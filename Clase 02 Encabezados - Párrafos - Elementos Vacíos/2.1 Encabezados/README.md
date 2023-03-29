@@ -13,7 +13,7 @@ El __< h2 >__ es la etiqueta que en __HTML__ permite identificar a los subt�
 
 ## ****Etiquetas**** h3, h4, h5 y h6
 
-Las etiquetas __< h3 >__, __< h4 >__, __< h5 >__ y __< h6 >__ son utilizados para identificar subtítulos de menor jerarquía que se encuentran presentes dentro de secciones de __**< h2 >**__ y permite ser minucioso con el contenido de nuestra página web. Obviamente, a mayor número de etiquetas, menor relevancia para los motores de búsqueda.
+Las etiquetas __< h3 >__, __< h4 >__, __< h5 >__ y __< h6 >__ son utilizados para identificar subtítulos de menor jerarquía que se encuentran presentes dentro de secciones de __< h2 >__ y permite ser minucioso con el contenido de nuestra página web. Obviamente, a mayor número de etiquetas, menor relevancia para los motores de búsqueda.
 
 ```html
 <html>
