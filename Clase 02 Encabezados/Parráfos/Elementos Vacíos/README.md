@@ -1,6 +1,6 @@
 # `Encabezados`
 
-Los **encabezados HTML**  o ***heading tags*** son **etiquetas de código HTML**  que se utilizan para definir los títulos y subtítulos de una página. ¿Y cómo se definen estos encabezados? Con la etiqueta __<Hn>__ donde “n” es un número entre 1 y 6 que indica la jerarquía de dicha cabecera.
+Los **encabezados HTML**  o ***heading tags*** son **etiquetas de código HTML**  que se utilizan para definir los títulos y subtítulos de una página. ¿Y cómo se definen estos encabezados? Con la etiqueta __< Hn >__ donde “n” es un número entre 1 y 6 que indica la jerarquía de dicha cabecera.
 
 Es decir, con esta etiqueta podemos implementar seis niveles de encabezado en el documento: __<h1>__ es el más relevante y __<h6>__el menos relevante.
 
