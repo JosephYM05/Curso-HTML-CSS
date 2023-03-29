@@ -5,7 +5,7 @@ Los **encabezados HTML**  o ***heading tags*** son **etiquetas de código H
 Es decir, con esta etiqueta podemos implementar seis niveles de encabezado en el documento: __< h1 >__ es el más relevante y __< h6 >__el menos relevante.
 
 ## Etiquetas de títulos
-El <h1> es una etiqueta que permite identificar aquellas frases que conforman el título principal de un contenido de una página web. Es fundamental que este encabezado, por ser el más relevante, resuma en una frase el contenido de dicha página. También es esperable que, tanto para los motores de búsqueda como para los usuarios, esté situado en el primer tramo de un documento web.
+El < h1 > es una etiqueta que permite identificar aquellas frases que conforman el título principal de un contenido de una página web. Es fundamental que este encabezado, por ser el más relevante, resuma en una frase el contenido de dicha página. También es esperable que, tanto para los motores de búsqueda como para los usuarios, esté situado en el primer tramo de un documento web.
 
 ## Etiqueta de subtítulos
 
