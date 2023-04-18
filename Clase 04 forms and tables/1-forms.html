@@ -5,22 +5,109 @@
     <title>Formularios</title>
   </head>
   <body>
-    <form action="resultados.html" method="GET">
+    <h1>FORMULARIO BÁSICO DE REGISTRO</h1>
+    <form action="2-validez.html" method="GET">
       <div>
         <label for="Nombre de usuario">Nombre de usuario</label>
-        <input name="nombreusuario" id="nombreusuario" />
+        <input user="nombreusuario" id="nombreusuario" required />
+      </div>
+      <br />
+
+      <div>
+        <label for="password">Contraseña</label>
+        <input type="password" name="password" id="password" required />
       </div>
       <br />
       <div>
-        <label for="password">Contraseña</label>
-        <input name="password" id="password" />
+        <label for="Nombres">Nombres</label>
+        <input
+          type="text"
+          user="nombres"
+          placeholder="letters"
+          pattern="[A-Za-z]{1,30}"
+          id="nombres"
+        />
       </div>
+      <br />
+      <div>
+        <label for="Apellidos">Apellidos</label>
+        <input
+          user="apellidos"
+          id="apellidos"
+          placeholder="letters"
+          pattern="[A-Za-z]{1,30}"
+        />
+      </div>
+      <br />
+      <div>
+        <label for="DNI">DNI</label>
+        <input
+          type="number"
+          user="dni"
+          id="dni"
+          placeholder="numbers"
+          min="0"
+        />
+      </div>
+      <br />
+      <label>Sexo: </label>
+      <select name="select">
+        <option selected>seleccione</option>
+        <option value="value1">Hombre</option>
+        <option value="value2">Mujer</option></select
+      ><br /><br />
+      <div>
+        <label>Email: </label>
+        <input name="nombre" type="email" /><br /><br />
+      </div>
+      <!-- <br /> -->
+      <div>
+        <label>Edad: </label>
+        <!--Etiqueta input tipo checkbox-->
+        <input type="checkbox" name="edad" value="20-39" /> 20-39
+        <input type="checkbox" name="edad" value="40-59" /> 40-59
+        <input type="checkbox" name="edad" value="60-79" /> 60-79<br /><br />
+      </div>
+      <!-- <br /> -->
+      <label>Estudios: </label>
+      <select id="dino-select">
+        <!--Etiqueta optgroup-->
+        <optgroup label="Estudios Universitarios">
+          <!--Etiqueta option-->
+          <option>Doctorado</option>
+          <option>Máster</option>
+          <option>Grado</option>
+        </optgroup>
+        <optgroup label="Ciclo Formativo">
+          <option>Grado Superior</option>
+          <option>Grado Medio</option>
+        </optgroup>
+      </select>
+      <br />
+      <br />
+      <label>Elige tu navegador favorito: </label>
+      <input list="browsers" name="myBrowser" />
+      <!--Etiqueta datalist-->
+      <datalist id="browsers">
+        <option value="Chrome"></option>
+        <option value="Firefox"></option>
+        <option value="Internet Explorer"></option>
+        <option value="Opera"></option>
+        <option value="Safari"></option>
+        <option value="Microsoft Edge"></option></datalist
+      ><br /><br />
       <br />
       <div>
         <label for="comentarios">Comentarios</label>
         <textarea name="comentarios" id="comentarios"></textarea>
       </div>
-      <button>Enviar</button>
+      <br />
+      <br />
+      <button type="submit">Enviar</button>
+      <br />
+      <br />
+      <button type="reset">Restablecer</button>
+      <br />
     </form>
   </body>
 </html>
