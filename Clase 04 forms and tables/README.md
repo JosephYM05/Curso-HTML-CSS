@@ -16,7 +16,6 @@ El principio y final de un formulario se define con las etiquetas < form> y </>.
 | < button> | Representa un botón. |
 |  |  |
 
-### Ejemplo:
 
 | < option> | Representa una opción en un elemento < select> o < datalist>. |
 | --- | --- |
@@ -26,6 +25,7 @@ El principio y final de un formulario se define con las etiquetas < form> y </>.
 | < textarea> | Representa un elemento de control de edición de texto multilínea. |
 | < output> | Representa el resultado de un cálculo. |
 
+### Ejemplo:
 Ejemplo completo: [https://github.com/JosephYM07/Curso-HTM-CSS/blob/0076a8dc984aad7107595b91820624f533095f8f/Clase%2004%20forms%20and%20tables/1-forms.html]
 
 
