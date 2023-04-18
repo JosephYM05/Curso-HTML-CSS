@@ -26,34 +26,9 @@ El principio y final de un formulario se define con las etiquetas < form> y </>.
 | < textarea> | Representa un elemento de control de edición de texto multilínea. |
 | < output> | Representa el resultado de un cálculo. |
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Formularios</title>
-  </head>
-  <body>
-    <form action="resultados.html" method="GET">
-      <div>
-        <label for="Nombre de usuario">Nombre de usuario</label>
-        <input name="nombreusuario" id="nombreusuario" />
-      </div>
-      <br />
-      <div>
-        <label for="password">Contraseña</label>
-        <input name="password" id="password" />
-      </div>
-      <br />
-      <div>
-        <label for="comentarios">Comentarios</label>
-        <textarea name="comentarios" id="comentarios"></textarea>
-      </div>
-      <button>Enviar</button>
-    </form>
-  </body>
-</html>
-```
+Ejemplo completo: [https://github.com/JosephYM07/Curso-HTM-CSS/blob/0076a8dc984aad7107595b91820624f533095f8f/Clase%2004%20forms%20and%20tables/1-forms.html]
+
+
 
 **Explicación:**
 
