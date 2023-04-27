@@ -2,9 +2,21 @@
 
 Este es un formulario de registro básico en HTML que contiene varios campos para recopilar información del usuario. El formulario incluye campos para el nombre de usuario, contraseña, nombres, apellidos, DNI, sexo, correo electrónico, edad, estudios y navegador favorito.
 
+## **Tecnologías utilizadas**
+
+- HTML
+
+## **Instrucciones de uso**
+
+1. Clona el repositorio en tu máquina local.
+2. Abre el archivo **`forms.html`** en tu navegador web.
+3. Introduce los datos solicitados en el formulario y haz clic en el botón "Enviar".
+4. Si los datos introducidos son válidos, se mostrará una página confirmando que el botón es válido. Si no son válidos, se mostrará un mensaje de error.
+5. Si deseas volver a la página anterior, haz clic en el botón "Regresar".
+
 ## **Uso**
 
-Puedes utilizar este formulario de registro básico en tus proyectos web para recopilar información del usuario. Simplemente copia el código HTML y pégalo en tu proyecto. Recuerda actualizar la acción del formulario para que se envíe a tu servidor.
+Puedes utilizar este formulario de registro básico en tus proyectos web para recopilar información del usuario. Simplemente copia el código HTML y pégalo en tu proyecto. 
 
 ## **Campos**
 
@@ -87,6 +99,6 @@ Si encuentras algún error o quieres contribuir con mejoras en el código, no du
 
 ## **Licencia**
 
-Este formulario de registro básico está licenciado bajo la licencia MIT. Puedes utilizarlo para tus proyectos personales o comerciales de forma gratuita. Consulta el archivo LICENSE para más detalles.
+Este formulario de registro básico está licenciado bajo la licencia libre. Puedes utilizarlo para tus proyectos personales o comerciales de forma gratuita. 
 
 ¡Gracias por utilizar este formulario de registro básico! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
