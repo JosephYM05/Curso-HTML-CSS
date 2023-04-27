@@ -6,8 +6,8 @@
 
 - Debe contener los siguientes campos:
 
-1. Un campo de texto llamado "nombre"
-2. Un campo numérico llamado "edad"
-3. Un campo de área de texto llamado "frase-favorita"
-4. Un botón de envío
-5. Un botón de reset
+    1. Un campo de texto llamado "nombre"
+    2. Un campo numérico llamado "edad"
+    3. Un campo de área de texto llamado "frase-favorita"
+    4. Un botón de envío
+    5. Un botón de reset
