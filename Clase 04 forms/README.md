@@ -1,3 +1,28 @@
+# **Formulario de Registro Básico**
+
+Este es un formulario de registro básico en HTML que contiene varios campos para recopilar información del usuario. El formulario incluye campos para el nombre de usuario, contraseña, nombres, apellidos, DNI, sexo, correo electrónico, edad, estudios y navegador favorito.
+
+## **Uso**
+
+Puedes utilizar este formulario de registro básico en tus proyectos web para recopilar información del usuario. Simplemente copia el código HTML y pégalo en tu proyecto. Recuerda actualizar la acción del formulario para que se envíe a tu servidor.
+
+## **Campos**
+
+El formulario de registro básico contiene los siguientes campos:
+
+- Nombre de usuario
+- Contraseña
+- Nombres
+- Apellidos
+- DNI
+- Sexo
+- Correo electrónico
+- Edad
+- Estudios
+- Navegador favorito
+- Comentarios
+
+
 # 4. Formularios
 
 Los formularios son los elementos en los que se integran los botones y las áreas de texto que se utilizan para que los usuarios introduzcan sus datos o que puedan elegir entre varias opciones. Veamos las etiquetas que se utilizan para la **creación de formularios en HTML**.
@@ -55,3 +80,13 @@ El atributo **`for`** de la etiqueta **`<label>`** se utiliza para indicar qué 
 Por su parte, el elemento **`<textarea>`**es similar a un campo de entrada de texto **`<input>`**, pero está diseñado para recopilar una cantidad significativa de texto. Al igual que la etiqueta **`<input>`** , la etiqueta **`<textarea>`** tiene el atributo **`name`**, que especifica el nombre del campo de entrada que se utilizará para enviar los datos del formulario al servidor. También tiene el atributo **`id`**, que especifica un identificador único para el elemento, que se usa en conjunto con la etiqueta **`<label>`** para mejorar la accesibilidad y la usabilidad del formulario.
 
 En resumen, estas etiquetas **`<label>`** se utilizan para proporcionar una descripción descriptiva de los campos de entrada de texto y el área de texto, lo que ayuda a los usuarios a entender el propósito de estos campos y lo que se espera que ingresen allí tanto ************USUARIO, CONTRASEÑA Y COMENTARIOS************.
+
+## **Contribuir**
+
+Si encuentras algún error o quieres contribuir con mejoras en el código, no dudes en hacer un pull request o abrir un issue.
+
+## **Licencia**
+
+Este formulario de registro básico está licenciado bajo la licencia MIT. Puedes utilizarlo para tus proyectos personales o comerciales de forma gratuita. Consulta el archivo LICENSE para más detalles.
+
+¡Gracias por utilizar este formulario de registro básico! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.

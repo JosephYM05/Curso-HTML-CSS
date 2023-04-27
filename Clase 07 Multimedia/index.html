@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contenido Multimedia</title>
+  </head>
+  <body>
+    <div>
+      <h3>Wallppaper</h3>
+      <!--src sirve para indicar la ruta de la imagen 
+          y alt sirve para indicar el texto alternativo de la imagen.-->
+      <img src="img/imga1.jpg" alt="Wallppaper Tokio" width="300" heigh="300" />
+      <p>Wallppaper Tokio</p>
+    </div>
+    <div>
+      <!-- Tipos soportados en HTML5
+        webm
+        mp4
+        ogg
+        -->
+      <h3>Vídeos</h3>
+      <p>Linkin Park - in the end</p>
+      <div>
+        <video width="500" height="350" controls>
+          <!--
+            controls: sirve para mostrar los controles del vídeo.
+            autoplay: sirve para que el vídeo se reproduzca automáticamente.
+            muted: sirve para que el vídeo se reproduzca sin sonido.
+            -->
+          <source
+            src="video/Linkin Park - in the end frases(720p).mp4"
+            type="video/mp4"
+          />
+        </video>
+      </div>
+    </div>
+    <div>
+      <h3>Audio</h3>
+      <p>Linkin Park - Faint</p>
+      <div>
+        <audio controls>
+          <!--
+                controls: sirve para mostrar los controles del audio.
+                autoplay: sirve para que el audio se reproduzca automáticamente.
+                muted: sirve para que el audio se reproduzca sin sonido.
+                -->
+          <source src="audio/Audio Linkin Park - Faint.mp3" type="audio/mp3" />
+        </audio>
+      </div>
+    </div>
+    <div>
+      <h3>Fuentes Externas</h3>
+      <img
+        scr="https://concepto.de/wp-content/uploads/2018/09/rock-e1536060138214.jpg"
+        alt="Rock"
+        width="300"
+        heigh="300"
+      />
+    </div>
+  </body>
+</html>
